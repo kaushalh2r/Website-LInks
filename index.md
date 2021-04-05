@@ -56,3 +56,6 @@
 
 # Navigation Menu:
 * https://bootstrap-menu.com/
+
+# particles.js
+* https://github.com/VincentGarreau/particles.js/
